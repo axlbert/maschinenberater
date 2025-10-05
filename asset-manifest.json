@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/maschinenberater/static/css/main.6628b99f.css",
+    "main.js": "/maschinenberater/static/js/main.9188fc0c.js",
+    "static/js/453.381d0b34.chunk.js": "/maschinenberater/static/js/453.381d0b34.chunk.js",
+    "index.html": "/maschinenberater/index.html",
+    "main.6628b99f.css.map": "/maschinenberater/static/css/main.6628b99f.css.map",
+    "main.9188fc0c.js.map": "/maschinenberater/static/js/main.9188fc0c.js.map",
+    "453.381d0b34.chunk.js.map": "/maschinenberater/static/js/453.381d0b34.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6628b99f.css",
+    "static/js/main.9188fc0c.js"
+  ]
+}
